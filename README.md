@@ -1,2 +1,2 @@
-# park.io_domain_list_scraper
+# park.io Domain List Scraper
 A quick-and-dirty script to get the latest dropping domains listed on Park.io.
